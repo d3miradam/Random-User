@@ -1,7 +1,7 @@
 # Random-User
 This tool create random user credential
 
-This tool is creating by https://randomuser.me/ API
+This tool is created by https://randomuser.me/ API
 
 
 note:

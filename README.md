@@ -5,5 +5,5 @@ Built using the https://randomuser.me/ API
 
 
 note:
-BIRTHDAY : 11/02/1966 --> day/month/year
+BIRTHDAY --> day/month/year
 
